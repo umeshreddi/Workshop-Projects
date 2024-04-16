@@ -1,7 +1,7 @@
 # Workshop-Projects, one () 1
 
 Worshop 1 :
-About :- Jobaaj Free Data Analytics 
+About :- Jobaaj Free Data Analytics  (Amazon Sales Dashboard)
 
 Introduction :-
 
